@@ -1,0 +1,12 @@
+controller = "vjoy" # Can be "keyboard" or "vjoy"
+reader = "twitch" # Can be "random", "irc" or "twitch"
+
+[twitch]
+username = "TwitchUsername"
+password = "oauth:something"
+channel = "twitchusername" # The channel to read commands from, usually your name in lowercase
+
+[irc]
+server = "localhost"
+port = 6667
+channel = "#test"

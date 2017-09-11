@@ -1,0 +1,9 @@
+.vscode
+mgba
+ircserver
+twitchplays.toml
+*.gb
+*.sav
+*.ss1
+vJoyInterface.dll
+twitchplays.exe
